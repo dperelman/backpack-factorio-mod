@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2024-04-18
+  Features:
+    - Remove "Shield Capacity" string from armor tooltip.
+      Leaves just "0" or ": 0".
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-03-29
+  Features:
+    - Initial release.
+    - Rename base name armors to "Backpack"/"Power backpack [MK2]".
+    - Reword locale strings mentioning armor to say "backpack" instead.
