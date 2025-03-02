@@ -1,14 +1,14 @@
 {
   "name": "BackpackRename",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "title": "BackpackRename",
   "author": "aebonyne",
   "contact": "https://github.com/dperelman/backpack-factorio-mod",
   "homepage": "https://github.com/dperelman/backpack-factorio-mod",
-  "factorio_version": "1.1",
-  "description": "Replaces the word \"armor\" with \"backpack\" everywhere. Intended to go with Pacifist or other mods that disable combat. Also removes resistances from all armors to reduce clutter.",
+  "factorio_version": "2.0",
+  "description": "Replaces the word \"armor\" with \"suit\" everywhere. Intended to go with Pacifist or other mods that disable combat. Also removes resistances from all armors to reduce clutter.",
   "dependencies": [
-    "base >= 1.1",
+    "base >= 2.0",
     "? invulnerable",
     "? Pacifist"
   ]
